@@ -35,7 +35,7 @@ export default function Home({ posts }) {
               src="/static/images/profile.jpg"
               alt="avatar"
               width="100px"
-              height="10px"
+              height="100px"
               className="rounded-full"
             />
           </div>
