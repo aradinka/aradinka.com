@@ -29,6 +29,15 @@ export default function Home({ posts }) {
               Data Scientist
             </h2>
           </div>
+          <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[200px]">
+            <Image
+              src="/static/images/profile.jpg"
+              alt="avatar"
+              width="200px"
+              height="200px"
+              className="rounded-full"
+            />
+          </div>
         </div>
         <p className="space-y-4 text-zinc-500 dark:text-slate-300">
           <p className="my-4 leading-loose">
