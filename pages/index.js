@@ -33,7 +33,7 @@ export default function Home({ posts }) {
         </div>
         <p className="space-y-4 text-zinc-500 dark:text-slate-300">
           <p className="my-4 leading-loose">
-            Graduated with a Bachelor in Statistics at{' '}
+            Graduated with a Bachelor's in Statistics at{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-500 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-500 hover:decoration-sky-500/30 focus:text-blue-500 focus:ring-sky-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40"
               href="https://www.its.ac.id/statistika/en/home/"
@@ -49,9 +49,9 @@ export default function Home({ posts }) {
               rel="noreferrer"
               target="_blank"
             >
-              one year data science internship
+              one year of data science internship
             </a>{' '}
-            experience technical AI team DDB{' '}
+            experience at technical AI team DDB{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-green-500 decoration-2 underline-offset-2 transition duration-100 hover:text-green-500 hover:decoration-green-500/30 focus:text-lime-500 focus:ring-lime-500/40 dark:text-white dark:decoration-lime-400 dark:hover:text-lime-400 dark:hover:decoration-lime-400/30 dark:focus:text-lime-400 dark:focus:ring-lime-400/40"
               href="https://www.telkom.co.id/sites"
@@ -60,7 +60,7 @@ export default function Home({ posts }) {
             >
               Telkom Indonesia
             </a>{' '}
-            and one year experience as a computing lab assistant teaching data analytics course, I
+            and one year of experience as a computing lab assistant teaching data analytics course, I
             graduate from{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-sky-700 decoration-2 underline-offset-2 transition duration-100 hover:text-sky-700 hover:decoration-sky-500/30 focus:text-orange-500 focus:ring-sky-500/40 dark:text-white dark:decoration-blue-400 dark:hover:text-blue-400 dark:hover:decoration-blue-400/30 dark:focus:text-blue-400 dark:focus:ring-blue-400/40"
@@ -69,7 +69,7 @@ export default function Home({ posts }) {
               target="_blank"
             >
               Google Bangkit
-            </a>
+            </a>{' '}
             and getting my{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-violet-500 decoration-2 underline-offset-2 transition duration-100 hover:text-violet-500 hover:decoration-violet-500/30 focus:text-violet-500 focus:ring-violet-500/40 dark:text-white dark:decoration-violet-400 dark:hover:text-violet-400 dark:hover:decoration-violet-400/30 dark:focus:text-violet-400 dark:focus:ring-violet-400/40"
