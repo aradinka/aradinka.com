@@ -30,12 +30,12 @@ export default function Home({ posts }) {
               Data Scientist
             </h2>
           </div>
-          <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[200px]">
+          <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[100x]">
             <Image
               src="/static/images/profile.jpg"
               alt="avatar"
-              width="200px"
-              height="200px"
+              width="100px"
+              height="10px"
               className="rounded-full"
             />
           </div>
