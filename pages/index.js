@@ -41,7 +41,7 @@ export default function Home({ posts }) {
             >
               Sepuluh Nopember Instute of Technology
             </a>
-            . I have {' '}
+            | I have {' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-800 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-800 hover:decoration-blue-800/30 focus:text-blue-500 focus:ring-blue-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40"
               href="https://www.instagram.com/p/CZZFAYovC8x/?utm_source=ig_web_copy_link"
@@ -59,7 +59,7 @@ export default function Home({ posts }) {
             >
               Telkom Indonesia
             </a>{' '}
-            and one year experience as a computing lab assistant teaching data analytics course. I graduate from {' '}
+            and one year experience as a computing lab assistant teaching data analytics course | I graduate from {' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-sky-700 decoration-2 underline-offset-2 transition duration-100 hover:text-sky-700 hover:decoration-sky-500/30 focus:text-orange-500 focus:ring-sky-500/40 dark:text-white dark:decoration-blue-400 dark:hover:text-blue-400 dark:hover:decoration-blue-400/30 dark:focus:text-blue-400 dark:focus:ring-blue-400/40"
               href="https://grow.google/intl/id_id/bangkit/"
@@ -77,7 +77,7 @@ export default function Home({ posts }) {
             >
               TensorFlow Developer Certificate
             </a>
-            .{' '}
+            {' '}
           </p>
         </p>
         <div className="mt-8 flex flex-wrap gap-4 text-center">
