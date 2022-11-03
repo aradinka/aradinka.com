@@ -1,6 +1,6 @@
 ---
 name: Wicak
-avatar: /static/images/sparrowhawk-avatar.jpg
+avatar: /static/images/avatar.png
 occupation: Data Scientist
 company:  
 linkedin: https://www.linkedin.com/in/auliawicak
