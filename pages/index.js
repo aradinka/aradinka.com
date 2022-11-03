@@ -127,9 +127,9 @@ export default function Home({ posts }) {
                   DDB Telkom Indonesia
                 </span>
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                  Jul, 2021
+                  Jul 2021
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
-                  Jun, 2022
+                  Jun 2022
                 </span>
               </p>
               <p className="flex items-center truncate">
@@ -142,7 +142,6 @@ export default function Home({ posts }) {
         </ul>
       </div>
       <div className="content mt-12 sm:mt-24">
-        <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Experiences</h2>
         <ul className="mt-8">
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
@@ -165,9 +164,14 @@ export default function Home({ posts }) {
                   Sepuluh Nopember Institute of Technology
                 </span>
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                  Feb, 2022
+                   Feb 2021
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
-                  Jun, 2022
+                  Jun 2021,
+                </span>
+                <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
+                   Feb 2022
+                  <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
+                  Jun 2022
                 </span>
               </p>
               <p className="flex items-center truncate">
