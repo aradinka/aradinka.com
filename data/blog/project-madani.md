@@ -1,5 +1,5 @@
 ---
-title: 'Madani'
+title: 'Mapping and Data Assesment for Natural Incident'
 date: '2020-07-01'
 tags: ['computer-vision', 'image-classification', 'image-segmentation']
 draft: false
