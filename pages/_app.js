@@ -23,7 +23,7 @@ export default function App({ Component, pageProps }) {
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-HNEV84FLMV"></script>
         <script>
           window.dataLayer = window.dataLayer || []
-          function gtag(){dataLayer.push(arguments)}
+          function gtag(){window && window.dataLayer && window.dataLayer.push.push(arguments)}
           gtag('js', new Date())
 
           gtag('config', 'G-HNEV84FLMV')
