@@ -89,8 +89,6 @@ export default function Home({ posts }) {
         <p className="max-w-[46ch] leading-relaxed text-zinc-500 dark:text-slate-300">
           A selection of projects I worked on in the past few years.
         </p>
-      </div>
-      <div className="container py-12">
         <div className="-m-4 flex flex-wrap">
           {featuredprojectsData.map((d) => (
             <Card
