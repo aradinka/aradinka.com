@@ -1,9 +1,9 @@
 ---
-title: 'IMDb'
+title: 'IMDb Dashboard using Shiny R'
 date: '2020-08-15'
 tags: ['R', 'shiny', 'ggplot']
 draft: false
-summary: 'Top 500 IMDb Movie Dashboard'
+summary: 'Top 500 IMDb Movie Dashboard using Shiny R'
 authors: ['azkaradinka', 'auboktav']
 ---
 
