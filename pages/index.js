@@ -70,7 +70,7 @@ export default function Home({ posts }) {
               rel="noreferrer"
               target="_blank"
             >
-              Google Bangkit
+              Google Bangkit 2021
             </a>{' '}
             and got my{' '}
             <a
