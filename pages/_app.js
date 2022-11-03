@@ -22,11 +22,9 @@ export default function App({ Component, pageProps }) {
         <meta content="width=device-width, initial-scale=1" name="viewport" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-HNEV84FLMV"></script>
         <script>
-          window.dataLayer = window.dataLayer || []
-          function gtag()
+          window.dataLayer = window.dataLayer || [] function gtag()
           {window && window.dataLayer && window.dataLayer.push.push(arguments)}
-          gtag('js', new Date())
-          gtag('config', 'G-HNEV84FLMV')
+          gtag('js', new Date()) gtag('config', 'G-HNEV84FLMV')
         </script>
       </Head>
       {isDevelopment && isSocket && <ClientReload />}
