@@ -139,10 +139,6 @@ export default function Home({ posts }) {
               </p>
             </div>
           </li>
-        </ul>
-      </div>
-      <div className="content mt-12 sm:mt-24">
-        <ul className="mt-8">
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
@@ -166,7 +162,7 @@ export default function Home({ posts }) {
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
                   Feb 2021
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
-                  Jun 2021 &
+                  Jun 2021
                 </span>
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
                   Feb 2022
