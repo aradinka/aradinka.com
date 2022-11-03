@@ -86,9 +86,6 @@ export default function Home({ posts }) {
       </div>
       <div className="content mb-8">
         <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Projects</h2>
-        <p className="max-w-[46ch] leading-relaxed text-zinc-500 dark:text-slate-300">
-          A selection of projects I worked on in the past few years.
-        </p>
         <div className="-m-4 flex flex-wrap">
           {featuredprojectsData.map((d) => (
             <Card
