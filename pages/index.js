@@ -6,7 +6,6 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import Image from '@/components/Image'
 import featuredprojectsData from '@/data/featuredprojectsData'
 import Card from '@/components/Card'
-import Image from '@/components/Image';
 import formatDate from '@/lib/utils/formatDate'
 
 import NewsletterForm from '@/components/NewsletterForm'
