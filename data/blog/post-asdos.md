@@ -4,7 +4,7 @@ date: '2022-02-01'
 tags: ['teaching', 'ggplot']
 draft: false
 summary: 'Course materials about exploring data before conducting more complex data analysis.'
-authors: ['azkaradinka', 'auboktav']
+authors: ['azkaradinka', 'benedictuskt']
 ---
 
 # Course Description
@@ -12,8 +12,6 @@ authors: ['azkaradinka', 'auboktav']
 This course studies summarizing or exploring data before conducting more complex data analysis to obtain initial information about the data. The techniques studied in this course include; Identifying data patterns through diagrams or graphs, determining the pattern of relationships between variables using scatter diagrams, making equations and smoothing data, comparing several groups of data and data distribution
 
 # Sample Materials
-
-Full notebook on my [kaggle](https://www.kaggle.com/code/aradinka/count-plot-bubble-plot-in-ggplot2-r/notebook)
 
 #### Data visualization using custom theme `ggplot` library
 
@@ -120,3 +118,5 @@ gapminder %>%
 ```
 
 ![Barplot](/static/images/post/asdos-2.png)
+
+Full notebook on my [kaggle](https://www.kaggle.com/code/aradinka/count-plot-bubble-plot-in-ggplot2-r/notebook)
