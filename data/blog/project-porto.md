@@ -8,7 +8,7 @@ authors: ['azkaradinka']
 ---
 
 
-![Portfolio1](/static/images/projects/thumbnail.jpg)
+![Portfolio1](/static/images/projects/porto-thumbnail.jpg)
 ![Portfolio2](/static/images/projects/porto-1.jpg)
 
 Check out my [behance](https://www.behance.net/gallery/68003639/Aradinka-Portfolio)
