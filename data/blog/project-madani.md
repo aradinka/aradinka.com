@@ -9,7 +9,7 @@ authors: ['azkaradinka', 'auliawicaksono']
 
 # Overview
 
-![overview](/static/images/projects/project-madani/madani-thumbnail.jpg)
+![overview](/static/images/projects/madani-thumbnail.jpg)
 
 From many disasters in Indonesia, the problem that often occurs in the disaster mitigation process is the difficulty of determining the areas and buildings affected by the disaster and determining the logistics distribution channels needed after a disaster occurs. Manual monitoring can be done, but it will require more resources, such as human and financial resources.
 

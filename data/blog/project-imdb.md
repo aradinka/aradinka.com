@@ -9,7 +9,7 @@ authors: ['azkaradinka', 'auboktav']
 
 # Overview
 
-![overview](/static/images/projects/project-imdb/imdb-thumbnail.jpg)
+![overview](/static/images/projects/imdb-thumbnail.jpg)
 
 Searching and retrieving large amounts of data is more accessible and faster nowadays. Data can be obtained from web pages with the web scraping method. Web scraping is the process of retrieving a semi-structured document from the internet, generally a web page. Using web scraping, we will examine the data on the top 500 films on IMDb. We will do exploratory data analysis, K-Means Clustering, and creating dashboard to find information and characteristics of the films.
 
