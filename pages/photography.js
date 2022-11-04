@@ -3,7 +3,7 @@ import photographyData from '@/data/photographyData'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
-export default function Projects() {
+export default function Photography() {
   return (
     <>
       <PageSEO title={`Projects - ${siteMetadata.author}`} description={siteMetadata.description} />
