@@ -26,7 +26,7 @@ const projectsData = [
   {
     title: 'Satria Data Infographic',
     description: `Favorite Infographic Nominee Infographic Competition Satria Data.`,
-    imgSrc: '/static/images/projects/sic-thumbnail.jpg',
+    imgSrc: '/static/images/projects/sic-thumbnail.png',
     href: '/blog/project-sic',
   },
 ]

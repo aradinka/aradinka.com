@@ -62,8 +62,16 @@ export default function Home({ posts }) {
             >
               Telkom Indonesia
             </a>{' '}
-            and one year of experience as a computing lab assistant teaching data analytics course,
-            I graduated from{' '}
+            and one year of experience as a computing lab assistant 
+            <a
+              className="focusable rounded-sm font-medium text-zinc-800 underline decoration-green-500 decoration-2 underline-offset-2 transition duration-100 hover:text-green-500 hover:decoration-green-500/30 focus:text-lime-500 focus:ring-lime-500/40 dark:text-white dark:decoration-lime-400 dark:hover:text-lime-400 dark:hover:decoration-lime-400/30 dark:focus:text-lime-400 dark:focus:ring-lime-400/40"
+              href="https://aradinka.vercel.app/blog/post-asdos"
+              rel="noreferrer"
+              target="_blank"
+            >
+            teaching data analytics
+            </a>{' '}
+            course, I graduated from{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-sky-700 decoration-2 underline-offset-2 transition duration-100 hover:text-sky-700 hover:decoration-sky-500/30 focus:text-orange-500 focus:ring-sky-500/40 dark:text-white dark:decoration-blue-400 dark:hover:text-blue-400 dark:hover:decoration-blue-400/30 dark:focus:text-blue-400 dark:focus:ring-blue-400/40"
               href="https://grow.google/intl/id_id/bangkit/"
