@@ -1,6 +1,6 @@
 ---
 title: 'Forget Jakarta'
-date: '2019-16-23'
+date: '2019-06-23'
 tags: ['photography']
 draft: false
 summary: 'A journey 100 km north of the city of Jakarta'
