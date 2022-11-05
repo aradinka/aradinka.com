@@ -108,12 +108,8 @@ export default function Home({ posts }) {
       </div>
       <div className="content mb-8">
         <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Photography</h2>
-        <div className="-m-4 flex flex-wrap">
-          <ul className="mt-8">
-            <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
-              <img src="/static/gifs/ilits.gif" alt="Photography" />
-            </li>
-          </ul>
+        <div className="mb-2">
+            <img src="/static/gifs/ilits.gif" alt="Photography" />
         </div>
       </div>
       <div className="content mt-12 sm:mt-24">
