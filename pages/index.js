@@ -29,7 +29,7 @@ export default function Home({ posts }) {
               Azka Radinka
             </h1>
             <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
-              Data Science - Photography
+              Data Analytics - Photography
             </h2>
           </div>
         </div>
