@@ -29,19 +29,19 @@ module.exports = {
       },
       colors: {
         primary: colors.teal,
-        // gray: colors.neutral,
-        gray: "#222222"
+        gray: colors.neutral,
+        blue: colors.lightblue,
       },
       typography: (theme) => ({
         DEFAULT: {
           css: {
             color: theme('colors.gray.700'),
             a: {
-              color: theme('colors.primary.500'),
+              color: theme('colors.blue.500'),
               '&:hover': {
-                color: `${theme('colors.primary.600')} !important`,
+                color: `${theme('colors.blue.600')} !important`,
               },
-              code: { color: theme('colors.primary.400') },
+              code: { color: theme('colors.blue.400') },
             },
             h1: {
               fontWeight: '700',
