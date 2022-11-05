@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Aradinka',
+  title: 'Azka Radinka Portfolio',
   author: 'Azka Radinka',
-  headerTitle: 'Aradinka',
+  headerTitle: '@aradinka',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
