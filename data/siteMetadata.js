@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Azka Radinka Portfolio',
+  title: 'Azka Radinka',
   author: 'Azka Radinka',
-  headerTitle: '@aradinka',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: 'Aradinka',
+  description: 'Azka Radinka Portfolio',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://aradinka.vercel.app/',
