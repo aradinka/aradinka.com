@@ -7,6 +7,7 @@ import Image from '@/components/Image'
 import featuredprojectsData from '@/data/featuredprojectsData'
 import Card from '@/components/Card'
 import formatDate from '@/lib/utils/formatDate'
+import ShowImage from 'next/image'
 
 import NewsletterForm from '@/components/NewsletterForm'
 
@@ -109,7 +110,7 @@ export default function Home({ posts }) {
       <div className="content mb-8">
         <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Photography</h2>
         <div className="mb-2">
-          <img src="/static/gifs/ilits.gif" alt="Photography" />
+          <ShowImage src="/static/gifs/ilits.gif"/>
         </div>
       </div>
       <div className="content mt-12 sm:mt-24">
