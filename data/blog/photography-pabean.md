@@ -18,9 +18,3 @@ Dibalik ayam geprek, telur balado, tahu jeletot, dan aneka sambal yang kerap kam
     ![2](/static/images/photography/pabean-2.jpg)
   </div>
 </div>
-
-# Watch Full Video
-
-<div>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/ZslrN6etUEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
