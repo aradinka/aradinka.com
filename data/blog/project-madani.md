@@ -16,3 +16,5 @@ From many disasters in Indonesia, the problem that often occurs in the disaster 
 Disaster mitigation follows the processes included in the standard operating procedures according to the level of disaster. MADANI (Mapping and Data Assesment for Natural Incident) is intended to support one of these processes, mainly in estimating areas and buildings affected by disasters and determining post-disaster logistics distribution channels.
 
 Check our **[GitHub repo](https://github.com/aradinka/MADANI)**
+
+Check the **[demo](https://aradinka-xview2-building-damage-detection-app-rm3i5q.streamlit.app/)**
