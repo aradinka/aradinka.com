@@ -26,6 +26,8 @@ Read about my internship journey from DDB Instagram post [here](https://www.inst
 
 ## How I get in
 
+![Interview](/static/gifs/post-intern-ddb.gif)
+
 I registered at [internship.ddbtelkom.id/](https://internship.ddbtelkom.id/) as a data scientist. This FHCI program allows active students to do an internship for six months which can be extended for up to 12 months. My CV was accepted, and I had to make a profile video like the one above. After my application was received, I was interviewed by 2 data scientists from Telkom about the projects I had worked on and the stack of data science tools I could use.
 
 ## Projects
