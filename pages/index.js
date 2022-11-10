@@ -47,7 +47,7 @@ export default function Home({ posts }) {
             , I have{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-800 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-800 hover:decoration-blue-800/30 focus:text-blue-500 focus:ring-blue-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40"
-              href="https://www.instagram.com/p/CZZFAYovC8x/?utm_source=ig_web_copy_link"
+              href="https://aradinka.vercel.app/blog/post-intern-ddb"
               rel="noreferrer"
               target="_blank"
             >
