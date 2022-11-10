@@ -16,6 +16,7 @@ Hook
 
 Draft:
 - Daftar, Profile Video, Interview
+	- GIF Profile Video
 - Projects
 	- First Project (Speaker Diarization)
 	- Question Answering System Research
