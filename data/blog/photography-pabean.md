@@ -19,7 +19,5 @@ Dibalik ayam geprek, telur balado, tahu jeletot, dan aneka sambal yang kerap kam
   </div>
 </div>
 
-### Watch Video
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-WyPBKKAL1Q?start=979" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+Watch the video on my [YouTube](https://youtu.be/ZslrN6etUEA?t=74)
