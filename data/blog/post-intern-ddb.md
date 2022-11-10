@@ -2,7 +2,7 @@
 title: 'My 1 Year Data Scientist Internship Story'
 date: '2022-07-11'
 tags: ['blog']
-draft: true
+draft: false
 summary: ''
 ---
 
