@@ -36,4 +36,4 @@ I registered at [internship.ddbtelkom.id/](https://internship.ddbtelkom.id/) as 
 
 > Given a speaker recognition model, how do we know how many speakers there are in audio and when the speaker speaks?
 
-This project is also the initiation of my final undergraduate thesis project, which is about unsupervised speaker diarization. A demo of my final project can be seen **[here](https://aradinka-xview2-building-damage-detection-app-rm3i5q.streamlit.app/)**.
+This project is also the initiation of my final undergraduate thesis project, which is about unsupervised speaker diarization. A demo of my final project can be seen **[here](https://aradinka-audio-conversation-transcription-app-qr965p.streamlit.app/)**.
