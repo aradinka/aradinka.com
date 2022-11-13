@@ -6,8 +6,4 @@ company:
 linkedin: https://www.linkedin.com/in/aradinka
 ---
 
-Hi. I’m Azka!
-
-I’m a statistics fresh graduate from Sepuluh Nopember Institute of Technology with 1-year data science internship experience in the technical AI team DDB Telkom Indonesia and 1-year experience as a computing lab assistant teaching data analytics course. 
-
-My undergraduate thesis is about speaker diarization. In 2021, I graduate from Google Bangkit and getting my TensorFlow Developer Certificate. I have a hobby in photography and design.
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
