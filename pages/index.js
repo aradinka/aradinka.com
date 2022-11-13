@@ -92,8 +92,8 @@ export default function Home({ posts }) {
       </div>
       <div className="mb-2">
         <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Photography</h2>
-        <div>
-          <img style="width:100%;" src="/static/gifs/ilits.gif" alt="Photography" />
+        <div className="mb-2">
+          <img src="/static/gifs/ilits.gif" alt="Photography" />
         </div>
       </div>
       <div className="content mt-12 sm:mt-24">
