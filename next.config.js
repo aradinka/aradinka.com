@@ -8,7 +8,7 @@ const ContentSecurityPolicy = `
   script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app;
   style-src 'self' 'unsafe-inline';
   frame-src youtube.com www.youtube.com;
-  frame-src timeline.knightlab.com www.timeline.knightlab.com;
+  frame-src knightlab.northwestern.edu www.knightlab.northwestern.edu;
   img-src * blob: data:;
   media-src 'none';
   connect-src *;
