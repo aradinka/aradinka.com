@@ -92,7 +92,7 @@ export default function Home({ posts }) {
       </div>
       <div className="mb-2">
         <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Photography</h2>
-        <div className="mb-2">
+        <div className="my-4 leading-loose">
           <img src="/static/gifs/ilits.gif" alt="Photography" />
         </div>
       </div>
