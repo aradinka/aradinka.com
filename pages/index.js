@@ -93,7 +93,7 @@ export default function Home({ posts }) {
       <div className="mb-2">
         <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Photography</h2>
         <div style={{ width: '100%', height: '100%', position: 'relative' }}>
-          <Image src="/static/gifs/ilits.gif" alt="Photography" layout="fill" objectFit="contain"/>
+          <Image src="/static/gifs/ilits.gif" alt="Photography" layout="fill" objectFit="contain" />
         </div>
       </div>
       <div className="content mt-12 sm:mt-24">
