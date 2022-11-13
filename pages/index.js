@@ -7,7 +7,7 @@ import Image from '@/components/Image'
 import featuredprojectsData from '@/data/featuredprojectsData'
 import Card from '@/components/Card'
 import formatDate from '@/lib/utils/formatDate'
-
+import Script from 'next/script'
 import NewsletterForm from '@/components/NewsletterForm'
 
 const MAX_DISPLAY = 5
@@ -168,6 +168,9 @@ export default function Home({ posts }) {
                   Computing Lab Assistant - Statistics Department
                 </span>
               </p>
+            </div>
+            <div className="mb-2">
+              <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
             </div>
           </li>
         </ul>
