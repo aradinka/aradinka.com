@@ -12,10 +12,10 @@ export default function Photography() {
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Photography
           </h1>
-          <img src="/static/gifs/ilits.gif" />
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             My Photography Collection
           </p>
+          <img src="/static/gifs/ilits.gif" />
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
