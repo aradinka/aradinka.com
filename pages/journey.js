@@ -1,4 +1,4 @@
-export default function Journey({ }) {
+export default function Journey({ post }) {
   return (
     <>
       <div className="mb-2">
@@ -14,4 +14,4 @@ export default function Journey({ }) {
       </div>
     </>
   )
-  }
+}
