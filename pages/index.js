@@ -29,7 +29,7 @@ export default function Home({ posts }) {
               Azka Radinka
             </h1>
             <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
-              Data Analytics - Photography
+              Data Analytics - Data Science
             </h2>
           </div>
         </div>
@@ -88,12 +88,6 @@ export default function Home({ posts }) {
               href={d.href}
             />
           ))}
-        </div>
-      </div>
-      <div className="mb-2">
-        <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Photography</h2>
-        <div style={{ width: '100%', height: '100%', position: 'relative' }}>
-          <img src="/static/gifs/ilits.gif" />
         </div>
       </div>
       <div className="content mt-12 sm:mt-24">
