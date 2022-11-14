@@ -1,7 +1,7 @@
 ---
 title: '4 Years Campus Activity'
 date: '2018-08-15'
-tags: ['', '', '']
+tags: ['activities']
 draft: false
 summary: ''
 authors: ['azkaradinka']
