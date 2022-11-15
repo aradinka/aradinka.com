@@ -1,4 +1,4 @@
-export default function Journey({ post }) {
+export default function Reels({ post }) {
   return (
     <>
       <div className="mb-2">

@@ -15,7 +15,6 @@ export default function Photography() {
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             My Photography Collection
           </p>
-          <img src="/static/gifs/ilits.gif" />
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
