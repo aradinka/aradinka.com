@@ -46,7 +46,7 @@ kanban-plugin: basic
 
 - [ ] [[post-intern-ddb]]
 - [ ] project-tss
-- [ ] [[project-bdc]]
+- [ ] [[project-bdctest]]
 
 
 ## Posted
