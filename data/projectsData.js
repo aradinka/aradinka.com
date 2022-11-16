@@ -12,8 +12,20 @@ const projectsData = [
     href: '/blog/project-imdb',
   },
   {
-    title: 'Zine',
-    description: `Aradinnka Portfolio Zine.`,
+    title: 'Audio Conversation Transcription',
+    description: `Speaker Diarization + Google Speech-to-text.`,
+    imgSrc: '/static/images/projects/audio-conversation-transcription-thumbnail.jpg',
+    href: 'https://aradinka-audio-conversation-transcription-app-qr965p.streamlit.app/',
+  },
+  {
+    title: 'Face Detection & Gender Classification',
+    description: `My submission for Big Data Challenge 2021`,
+    imgSrc: '/static/images/projects/gender-classification-thumbnail.jpg',
+    href: 'http://bdc.herokuapp.com/',
+  },
+  {
+    title: 'Personal Portfolio Zine',
+    description: `Aradinka Portfolio Zine.`,
     imgSrc: '/static/images/projects/porto-thumbnail.jpg',
     href: '/blog/project-porto',
   },

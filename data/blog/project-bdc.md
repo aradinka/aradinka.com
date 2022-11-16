@@ -11,5 +11,7 @@ authors: ['azkaradinka']
 
 Statistika Ria dan Festival Sains Data (SATRIA DATA) are national-scale competition to improve student competence in statistics and data science. Big Data Challenge (BDC) is a part of the competition. BDC 2021 was hosted by IPB University with a goal to classify gender  
 
-## Demo
+## My Submission
+
+
 
