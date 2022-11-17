@@ -24,6 +24,12 @@ const projectsData = [
     href: '/blog/project-asean-democracy-index',
   },
   {
+    title: 'Personalized Email Automation',
+    description: `Personalized Email Automation for My Organization using Python.`,
+    imgSrc: '/static/images/projects/email-automation-thumbnail.png',
+    href: '/blog/project-email-automation',
+  },
+  {
     title: 'Personal Portfolio Zine',
     description: `Aradinka Portfolio Zine.`,
     imgSrc: '/static/images/projects/porto-thumbnail.jpg',
