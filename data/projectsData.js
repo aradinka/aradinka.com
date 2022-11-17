@@ -18,6 +18,12 @@ const projectsData = [
     href: 'https://aradinka-audio-conversation-transcription-app-qr965p.streamlit.app/',
   },
   {
+    title: 'ASEAN Democracy Index',
+    description: `Exploratory Data Analysis on ASEAN Democracy Index.`,
+    imgSrc: '/static/images/projects/asean-thumbnail.png',
+    href: '/blog/project-asean-democracy-index',
+  },
+  {
     title: 'Personal Portfolio Zine',
     description: `Aradinka Portfolio Zine.`,
     imgSrc: '/static/images/projects/porto-thumbnail.jpg',
