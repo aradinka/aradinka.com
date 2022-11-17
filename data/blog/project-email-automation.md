@@ -58,7 +58,7 @@ I also don't want to use additional extensions or paid services to do mass perso
 <p>Best Regards, PSt Team.</p>
 ```
 
-See the sample message above, we can subtitute ${NAME} and ${DEPARTEMEN} with our data later.
+See the sample message above, we can subtitute `${NAME}` and `${DEPARTEMEN}` with our data later.
 
 ### Python script
 
