@@ -125,7 +125,7 @@ export default function Home({ posts }) {
                 </span>
               </p>
             </div>
-          </li>    
+          </li> 
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
