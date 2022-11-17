@@ -67,7 +67,7 @@ export default function Home({ posts }) {
             and got my{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-violet-500 decoration-2 underline-offset-2 transition duration-100 hover:text-violet-500 hover:decoration-violet-500/30 focus:text-violet-500 focus:ring-violet-500/40 dark:text-white dark:decoration-violet-400 dark:hover:text-violet-400 dark:hover:decoration-violet-400/30 dark:focus:text-violet-400 dark:focus:ring-violet-400/40"
-              href="https://www.credential.net/d30e68da-5c26-4873-9de5-17b83888c6ff#gs.giczg9"
+              href="https://aradinka.vercel.app/blog/post-tensorflow"
               rel="noreferrer"
               target="_blank"
             >
