@@ -93,7 +93,7 @@ export default function Home({ posts }) {
       <div className="content mt-12 sm:mt-24">
         <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Experiences</h2>
         <ul className="mt-8">
-        <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
+          <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
               href="https://grow.google/intl/id_id/bangkit/"
@@ -125,7 +125,7 @@ export default function Home({ posts }) {
                 </span>
               </p>
             </div>
-          </li>          
+          </li>    
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
