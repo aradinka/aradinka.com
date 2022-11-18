@@ -7,13 +7,13 @@ summary: 'Course materials about exploring data before conducting more complex d
 authors: ['azkaradinka', 'benedictuskt']
 ---
 
-# Course Description
+## Course Description
 
 This course studies summarizing or exploring data before conducting more complex data analysis to obtain initial information about the data. Pengajaran dilakukan selama 16 minggu dengan peserta 30 mahasiswa. The techniques studied in this course include; Identifying data patterns through diagrams or graphs, determining the pattern of relationships between variables using scatter diagrams, making equations and smoothing data, comparing several groups of data and data distribution
 
-# Sample Materials
+## Sample Materials
 
-#### Data visualization using custom theme `ggplot` library
+### Data visualization using custom theme `ggplot` library
 
 Create your own custom theme
 
@@ -36,7 +36,7 @@ theme_azka = function(){
 ```
 
 
-### Bar Plot
+#### Bar Plot
 
 Data [Football Events](https://www.kaggle.com/datasets/secareanualin/football-events)
 
@@ -71,7 +71,7 @@ cards %>%
 
 ![Barplot](/static/images/post/asdos-1.png) 
 
-### Bubble Plot
+#### Bubble Plot
 
 Data [Gapminder](https://www.kaggle.com/datasets/tklimonova/gapminder-datacamp-2007)
 
@@ -118,5 +118,7 @@ gapminder %>%
 ```
 
 ![Barplot](/static/images/post/asdos-3.png)
+
+## Kaggle Notebook
 
 Full notebook on my [kaggle](https://www.kaggle.com/code/aradinka/count-plot-bubble-plot-in-ggplot2-r/notebook)

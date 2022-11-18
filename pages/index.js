@@ -39,7 +39,7 @@ export default function Home({ posts }) {
             have{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-800 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-800 hover:decoration-blue-800/30 focus:text-blue-500 focus:ring-blue-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40"
-              href="https://aradinka.vercel.app/blog/post-intern-ddb"
+              href="https://aradinka.vercel.app/post/post-intern-ddb"
               rel="noreferrer"
               target="_blank"
             >
@@ -49,7 +49,7 @@ export default function Home({ posts }) {
             computing lab assistant{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-green-500 decoration-2 underline-offset-2 transition duration-100 hover:text-green-500 hover:decoration-green-500/30 focus:text-lime-500 focus:ring-lime-500/40 dark:text-white dark:decoration-lime-400 dark:hover:text-lime-400 dark:hover:decoration-lime-400/30 dark:focus:text-lime-400 dark:focus:ring-lime-400/40"
-              href="https://aradinka.vercel.app/blog/post-asdos"
+              href="https://aradinka.vercel.app/post/post-asdos"
               rel="noreferrer"
               target="_blank"
             >
@@ -67,7 +67,7 @@ export default function Home({ posts }) {
             and got my{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-violet-500 decoration-2 underline-offset-2 transition duration-100 hover:text-violet-500 hover:decoration-violet-500/30 focus:text-violet-500 focus:ring-violet-500/40 dark:text-white dark:decoration-violet-400 dark:hover:text-violet-400 dark:hover:decoration-violet-400/30 dark:focus:text-violet-400 dark:focus:ring-violet-400/40"
-              href="https://aradinka.vercel.app/blog/post-tensorflow"
+              href="https://aradinka.vercel.app/post/post-tensorflow"
               rel="noreferrer"
               target="_blank"
             >
