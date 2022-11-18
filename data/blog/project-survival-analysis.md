@@ -1,10 +1,11 @@
 ---
 title: 'Survival Analysis - Veterans' Lung Cancer Study'
-date: '2021-07-15'
+date: '2021-07-14'
 tags: ['survival-analysis', 'R']
 draft: false
 summary: ''
 authors: ['azkaradinka']
+layout: PostLayout
 ---
 
 <TOCInline toc={props.toc} asDisclosure toHeading={3} />
