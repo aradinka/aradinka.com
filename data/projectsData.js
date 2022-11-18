@@ -18,6 +18,12 @@ const projectsData = [
     href: 'https://aradinka-audio-conversation-transcription-app-qr965p.streamlit.app/',
   },
   {
+    title: 'Survival Analysis - Veteran Lung Cancer Study',
+    description: `Survival Analysis using Stratified Cox Proportional Hazard Model.`,
+    imgSrc: '/static/images/projects/survival-analysis-4.png',
+    href: '/blog/project-survival-analysis',
+  },
+  {
     title: 'ASEAN Democracy Index',
     description: `Exploratory Data Analysis on ASEAN Democracy Index.`,
     imgSrc: '/static/images/projects/asean-thumbnail.png',
