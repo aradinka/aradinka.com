@@ -6,6 +6,8 @@ draft: false
 summary: ''
 ---
 
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
+
 ## Overview
 
 In my last year of college, I interned as a data scientist in the technical voice analytics team (Big Data Platform, AI & Cyber Security Division) and the technical ai team (Emerging Technology Platform Division) in Digital Business Telkom. My team consists of less than eight people, with two interns. I do all data scientist activities starting from paper research, reproducing SOTA paper code from GitHub, reading old code and implementing new code on the server, doing model training, evaluating model performance, creating CRUD API, writing papers, and creating datasets for evaluation.

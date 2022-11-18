@@ -7,6 +7,8 @@ summary: ''
 authors: ['azkaradinka']
 ---
 
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
+
 ## Overview
 
 I just completed one of the specializations from Coursera, namely [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation). In the last course, several automation projects interested me to implementing them in my organization. This specialization consists of 6 courses, including:

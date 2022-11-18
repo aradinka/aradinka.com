@@ -26,9 +26,7 @@ In a study conducted by the US Veterans Administration, male patients with inope
 ![](/static/images/projects/survival-analysis.png)
 
 
-## Analysis
-
-### What survival model should be chosen?
+## What survival model should be chosen?
 
 Strategy:
 

@@ -7,6 +7,8 @@ summary: ''
 authors: ['azkaradinka']
 ---
 
+<TOCInline toc={props.toc} asDisclosure toHeading={3} />
+
 ## Overview
 
 The Democracy Index is an index that compiled based on 60 indicators grouped in five different categories that measure pluralism, civil liberties, and political culture. The aim of this project is to know the condition of democracy in ASEAN member countries in the last 1 decade. The data source which used in this project is produced by the Economist Intelligence Unit about the index democracy from 2010 to 2019. Data exploration method, used are boxplot, violin plot, scatterplot, line graphs, correlograms, and geographic plots.
