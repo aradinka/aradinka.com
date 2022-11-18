@@ -1,5 +1,5 @@
 ---
-title: 'Survival Analysis - Veterans' Lung Cancer Study'
+title: 'Survival Analysis - Veterans Lung Cancer Study'
 date: '2021-07-14'
 tags: ['survival-analysis', 'R']
 draft: false
@@ -225,7 +225,7 @@ trt=1 69     64  103.0      59     132
 trt=2 68     64   52.5      44      95
 ```
 
-#### **Kaplan-Meier Plot**
+**Kaplan-Meier Plot**
 
 ```r
 tema_azka = function(){
