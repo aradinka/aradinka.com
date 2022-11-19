@@ -23,7 +23,7 @@ Topics: speaker diarization, voice activity detection, speaker recognition, clus
 
 Project input: `.wav` audio containing conversation between 2 speakers or up to 25 speakers
 
-Project output: Detect each speaker audio snippet, give each audio snippet a speaker name, then create transcription with speaker time stamp when the speaker speaks
+Project output: Detect each speaker audio snippet, user can give each audio snippet a speaker name, then create transcription with speaker time stamp when the speaker speaks
 
 Live Demo: [Audio Conversation Transcription Demo](https://aradinka-audio-conversation-transcription-app-qr965p.streamlit.app/)
 
@@ -33,7 +33,7 @@ Much information can be extracted from recorded voice data such as the speaker's
 
 Speaker diarization overcame this problem by dividing pieces of recorded voice data into groups based on the speaker's identity while specifying when the speaker speaks. A speaker diarization system was made by performing segmentation on voice data, extracting unique voice features, and clustering the extracted voice features. A convolutional neural network model called visual geometry group speaker recognition was trained on VoxCeleb2 data to extract voice features. 
 
-This project carries out a comparison of the voice clustering method between agglomerative hierarchical clustering and spectral clustering. The speaker diarization system was evaluated on 600 conversation data with 2 to 7 speakers made of VoxCeleb1 voice snippets. The best cluster was determined using Silhouette Coefficient. 
+This project carries out a comparison of the voice clustering method between agglomerative hierarchical clustering and spectral clustering. The speaker diarization system was evaluated on 600 conversation data with 2 to 7 speakers made of VoxCeleb1 voice snippets. The best cluster was determined using Silhouette Coefficient.
 
 ## Live Demo
 

@@ -53,4 +53,4 @@ The image that will be used for training is a polygon image that has been extrac
 
 ## Building Damage Detection Demo
 
-See [here](https://aradinka-xview2-building-damage-detection-app-rm3i5q.streamlit.app/)https://www.aradinka.com/blog/project-madani
+See [here](https://aradinka-xview2-building-damage-detection-app-rm3i5q.streamlit.app/)
