@@ -17,7 +17,7 @@ Environment: `Python 3.7.13`, [Google Colab](https://colab.research.google.com/)
 
 Dataset: Private dataset provided by Satria Data Competition
 
-Result: 92% accuracy in validation set (top 15 solution on the competition)
+Result: Top 15 solution on the competition
 
 ## Live Demo
 
