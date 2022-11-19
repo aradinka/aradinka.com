@@ -12,6 +12,12 @@ const projectsData = [
     href: '/blog/project-madani',
   },
   {
+    title: 'Face Detection & Gender Classification',
+    description: `My Submission for Satria Data Competition.`,
+    imgSrc: '/static/images/projSubmission for Satria Data Competitionects/gender-classification-thumbnail.jpg',
+    href: '/blog/project-gender-classification',
+  },
+  {
     title: 'IMDb Dashboard',
     description: `Top 500 IMDb Movie Dashboard using Shiny R.`,
     imgSrc: '/static/images/projects/imdb-thumbnail.jpg',
