@@ -4,19 +4,26 @@ date: '2020-07-01'
 tags: ['computer-vision', 'image-classification', 'image-segmentation']
 draft: false
 summary: 'Madani is an application that makes it easier for volunteers to carry out disaster mitigation by classifying routes and impact buildings based on post-disaster satellite images.'
-authors: ['azkaradinka', 'auliawicaksono']
+authors: ['azkaradinka']
 ---
 
 
 ## Project Info
 
 Package: [TensorFlow](https://github.com/tensorflow), [PIL](https://github.com/python-pillow/Pillow),  [Shapely](https://github.com/shapely/shapely), [opencv](https://github.com/opencv/opencv-python), [SciPy](https://github.com/scipy/scipy), [matplotlib](https://github.com/matplotlib/matplotlib), [pandas](https://github.com/pandas-dev/pandas), [NumPy](https://github.com/numpy/numpy)
+
 Environment: `Python 3.7.13`, [Google Colab](https://colab.research.google.com/) with K80 GPU
+
 Paper source: [xBD dataset](https://arxiv.org/abs/1911.09296)
+
 Dataset: [Palu Disaster Satellite Images](https://www.kaggle.com/datasets/auliawicaksono/palu-disaster-satellite-images) (part of [xBD dataset](https://arxiv.org/abs/1911.09296))
+
 Related Competition: [xView2: Assess Building Damage](https://xview2.org/)
+
 Topics: computer vision, image classification
+
 GitHub: [github.com/aradinka/MADANI](https://github.com/aradinka/MADANI)
+
 Live Demo: **[Building Damage Detection Demo](https://aradinka-xview2-building-damage-detection-app-rm3i5q.streamlit.app/)**
 
 
@@ -36,7 +43,7 @@ I use the xBD dataset to assess building damage from satellite imagery. xBD prov
 
 ## Data Preparation
 
-![](/static/images/projects/madani-1.jpg)
+![](/static/images/projects/madani-2.jpg)
 
 The image that will be used for training is a polygon image that has been extracted from a complete satellite image. After doing some extraction, we generate a csv file with polygon ID and its corresponding damage labels. We will use this csv later to input data into the model using [flow_from_dataframe](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator#flow_from_dataframe). We will apply multiple augmentations to our training data for all polygon images, such as; horizontal flip, vertical flip, rotation, width and height shift. We resize our input images to 128x128.
 
