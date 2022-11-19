@@ -68,7 +68,9 @@ export default function Home({ posts }) {
         </p>
       </div>
       <div className="content mb-8">
-        <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Featured Projects with Live Demo</h2>
+        <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">
+          Featured Projects with Live Demo
+        </h2>
         <div className="-m-4 flex flex-wrap">
           {featuredprojectsData.map((d) => (
             <Card
