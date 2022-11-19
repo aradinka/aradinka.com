@@ -14,7 +14,7 @@ const projectsData = [
   {
     title: 'Face Detection & Gender Classification',
     description: `My Submission for Satria Data Competition.`,
-    imgSrc: '/static/images/projSubmission for Satria Data Competitionects/gender-classification-thumbnail.jpg',
+    imgSrc: '/static/images/projects/gender-classification-thumbnail.jpg',
     href: '/blog/project-gender-classification',
   },
   {
