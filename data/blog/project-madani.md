@@ -10,7 +10,7 @@ authors: ['azkaradinka']
 
 ## Project Info
 
-Package: [TensorFlow](https://github.com/tensorflow), [PIL](https://github.com/python-pillow/Pillow),  [Shapely](https://github.com/shapely/shapely), [opencv](https://github.com/opencv/opencv-python), [SciPy](https://github.com/scipy/scipy), [matplotlib](https://github.com/matplotlib/matplotlib), [pandas](https://github.com/pandas-dev/pandas), [NumPy](https://github.com/numpy/numpy)
+Package: [TensorFlow](https://github.com/tensorflow), [PIL](https://github.com/python-pillow/Pillow),  [Shapely](https://github.com/shapely/shapely), [opencv](https://github.com/opencv/opencv-python), [SciPy](https://github.com/scipy/scipy), [pandas](https://github.com/pandas-dev/pandas), [NumPy](https://github.com/numpy/numpy)
 
 Environment: `Python 3.7.13`, [Google Colab](https://colab.research.google.com/) with K80 GPU
 
@@ -53,4 +53,4 @@ The image that will be used for training is a polygon image that has been extrac
 
 ## Building Damage Detection Demo
 
-See [here](https://aradinka-xview2-building-damage-detection-app-rm3i5q.streamlit.app/)
+See [here](https://aradinka-xview2-building-damage-detection-app-rm3i5q.streamlit.app/)https://www.aradinka.com/blog/project-madani
