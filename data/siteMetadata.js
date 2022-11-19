@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Azka Radinka Portfolio',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://aradinka.vercel.app/',
+  siteUrl: 'https://aradinka.com/',
   siteRepo: 'https://github.com/aradinka/tailwind-nextjs-web',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
