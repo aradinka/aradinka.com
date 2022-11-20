@@ -31,7 +31,7 @@ const projectsData = [
   },
   {
     title: 'ARIMA Intervention Model',
-    description: `Influence of Covid-19 on PT.Unilever Indoensia Stock Priece using ARIMA Intervention Model.`,
+    description: `Influence of Covid 19 on PT Unilever Indoensia Stock Price using ARIMA Intervention Model.`,
     imgSrc: '/static/images/projects/arima-9.jpg',
     href: '/blog/project-arima',
   },
