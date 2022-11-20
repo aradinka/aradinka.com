@@ -13,6 +13,8 @@ authors: ['azkaradinka', 'benedictuskt']
 
 This course studies summarizing or exploring data before conducting more complex data analysis to obtain initial information about the data. Teaching was carried out for 16 weeks with 50 student participants. The techniques studied in this course include; Identifying data patterns through diagrams or graphs, determining the pattern of relationships between variables using scatter diagrams, making equations and smoothing data, comparing several groups of data and data distribution.
 
+![](/static/images/post/asdos.jpg)
+
 ## Sample Materials
 
 ### Data visualization using custom theme `ggplot` library
@@ -40,7 +42,7 @@ theme_azka = function(){
 
 #### Bar Plot
 
-Data [Football Events](https://www.kaggle.com/datasets/secareanualin/football-events)
+Data **[Football Events](https://www.kaggle.com/datasets/secareanualin/football-events)**
 
 ```R
 library(dplyr)

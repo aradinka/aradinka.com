@@ -11,4 +11,4 @@ TensorFlow is an open-source numerical computing framework whichs allows you to 
 
 ![certificate](/static/images/post/tensorflow.jpg)
 
-See the [credential](https://www.credential.net/d30e68da-5c26-4873-9de5-17b83888c6ff#gs.giczg9).
+See my tensorflow developer certificate [credential](https://www.credential.net/d30e68da-5c26-4873-9de5-17b83888c6ff#gs.giczg9)

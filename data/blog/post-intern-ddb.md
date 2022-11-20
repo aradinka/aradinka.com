@@ -1,12 +1,10 @@
 ---
 title: 'My 1 Year Data Scientist Internship Story'
 date: '2022-07-11'
-tags: ['blog']
+tags: ['internship']
 draft: false
 summary: ''
 ---
-
-<TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
 ## Overview
 
@@ -39,4 +37,4 @@ In the first month of my internship, I was paired with one of the on-the-job tra
 
 > Given a speaker recognition model, how do we know how many speakers there are in an audio conversation and when the speaker speaks?
 
-This project lasted 1 month until it solved the problem statement above and continued making the CRUD API in the following months. This project is also the initiation of my final undergraduate thesis project, which is about unsupervised speaker diarization. A demo of my final project can be seen **[here](https://aradinka-audio-conversation-transcription-app-qr965p.streamlit.app/)**.
+This project lasted 1 month until it solved the problem statement above and continued making the CRUD API in the following months. This project is also the initiation of my final undergraduate thesis project, which is about unsupervised speaker diarization. The detailed about the project can be seen **[here](https://www.aradinka.com/blog/project-audio-conversation-transcription)**.
