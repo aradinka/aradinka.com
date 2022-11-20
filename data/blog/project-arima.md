@@ -102,7 +102,7 @@ Model ARIMA([13, 26, 56, 58, 61],2,1)
 
 | Parameter | Lag | Estimasi | P-Value | Kesimpulan |
 |-----------|-----|----------|---------|------------|
-| MA1,1     | 1   | 0.98306  | <.0001  | Signifikan |
+| MA1,1     | 1   | 0.98306  | 0.0001  | Signifikan |
 | AR1,1     | 13  | 0.16762  | 0.0017  | Signifikan |
 | AR1,2     | 26  | 0.11067  | 0.0391  | Signifikan |
 | AR1,3     | 56  | -0.13194 | 0.0141  | Signifikan |
