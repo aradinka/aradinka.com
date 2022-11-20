@@ -1,7 +1,7 @@
 ---
 title: 'Survival Analysis - Veterans Lung Cancer Study'
 date: '2021-07-14'
-tags: ['R']
+tags: ['R', 'kaggle-notebooks']
 draft: false
 summary: ''
 authors: ['azkaradinka']

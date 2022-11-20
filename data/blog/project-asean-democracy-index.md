@@ -1,7 +1,7 @@
 ---
 title: 'ASEAN Democracy Index EDA'
 date: '2018-08-15'
-tags: ['R', 'ggplot2']
+tags: ['R', 'ggplot2', 'kaggle-notebooks']
 draft: false
 summary: ''
 authors: ['azkaradinka']

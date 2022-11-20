@@ -1,7 +1,7 @@
 ---
 title: 'HBAT Factor Analysis'
 date: '2021-05-7'
-tags: ['R']
+tags: ['R', 'kaggle-notebooks']
 draft: false
 summary: ''
 authors: ['azkaradinka']
