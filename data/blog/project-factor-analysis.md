@@ -338,6 +338,8 @@ sum(total_variance_explained[m, 'Cumulative %'])
 0.795945506577491
 ```
 
+0.7959 is the proportion of cumulative variability explained by 4 common factors of a total of 11 variables.
+
 ## Loading Factor Matrix
 
 ```r
@@ -364,9 +366,9 @@ Communalities
 
 ![](/static/images/projects/factor-analysis-5.png)
 
-Communality shows the proportion of variability explained by 4 common factors for each variable. The communalities values of the 11 variables indicate that these two factors cover a relatively large percentage of the sample variance for each variable.
+Communality shows the proportion of variability explained by four common factors for each variable. The communalities values of the 11 variables indicate that these four factors cover a relatively large percentage of the sample variance for each variable.
 
-The two factors formed can explain 76.8% of the proportion of the variance of the `Product Quality` variable, 77.8% of the proportion of the variance of the `E-Commerce Activities/Website` variable, 89.3% of the proportion of the variance of the `Technical Support` variable, 88.1% of the proportion of the variance of the `variable Complaint Resolution`, 57.6% proportion of the variance of the `Advertising` variable, 78.7% of the proportion of the variance of the `Product Line` variable, 85.9% of the proportion of the variance of the `Salesforce Image` variable, 64.1% of the proportion of the variance of the `Competitive Pricing` variable, 89.2% of the proportion variance of the `Warranty and Claims` variable, 76.6% of the proportion of the variance of the `Ordering and Billing` variable, and 91.4% of the proportion of the variance of the `Delivery Speed` variable.
+The four factors formed can explain 76.8% of the proportion of the variance of the `Product Quality` variable, 77.8% of the proportion of the variance of the `E-Commerce Activities/Website` variable, 89.3% of the proportion of the variance of the `Technical Support` variable, 88.1% of the proportion of the variance of the `variable Complaint Resolution`, 57.6% proportion of the variance of the `Advertising` variable, 78.7% of the proportion of the variance of the `Product Line` variable, 85.9% of the proportion of the variance of the `Salesforce Image` variable, 64.1% of the proportion of the variance of the `Competitive Pricing` variable, 89.2% of the proportion variance of the `Warranty and Claims` variable, 76.6% of the proportion of the variance of the `Ordering and Billing` variable, and 91.4% of the proportion of the variance of the `Delivery Speed` variable.
 
 ## Component Matrix - Grouping variables
 
