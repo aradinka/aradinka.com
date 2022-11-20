@@ -105,12 +105,12 @@ Because there are still 5 lags outside the limits of the residual ACF plot of th
 
 | Parameter | Lag | Estimasi | P-Value | Conclusion |
 |-----------|-----|----------|---------|------------|
-| MA1,1     | 1   | 0.98306  | 0.0001  | Significanct |
-| AR1,1     | 13  | 0.16762  | 0.0017  | Significanct |
-| AR1,2     | 26  | 0.11067  | 0.0391  | Significanct |
-| AR1,3     | 56  | -0.13194 | 0.0141  | Significanct |
-| AR1,4     | 58  | 0.13967  | 0.009   | Significanct |
-| AR1,5     | 61  | -0.11902 | 0.0266  | Significanct |
+| MA1,1     | 1   | 0.98306  | 0.0001  | Significant |
+| AR1,1     | 13  | 0.16762  | 0.0017  | Significant |
+| AR1,2     | 26  | 0.11067  | 0.0391  | Significant |
+| AR1,3     | 56  | -0.13194 | 0.0141  | Significant |
+| AR1,4     | 58  | 0.13967  | 0.009   | Significant |
+| AR1,5     | 61  | -0.11902 | 0.0266  | Significant |
 
 | To Lag | Chi-Square | DF | Pr > ChiSq |
 |--------|------------|----|------------|
@@ -158,8 +158,8 @@ After obtaining 2 models that have significant interventions and parameters, we 
 
 | Intervention Model            | Intervention | Residual White Noise | Residual Normal | RMSE   |
 |-------------------------------|--------------|----------------------|-----------------|--------|
-| ARIMA([56],2,1) b=2, r=1, s=1 | Significance | Fulfilled            | Fulfilled       | 156.23 |
-| ARIMA(0,2,1) b=2, r=1, s=1    | Significance | Fulfilled            | Fulfilled       | 165.93 |
+| ARIMA([56],2,1) b=2, r=1, s=1 | Significant | Fulfilled            | Fulfilled       | 156.23 |
+| ARIMA(0,2,1) b=2, r=1, s=1    | Significant | Fulfilled            | Fulfilled       | 165.93 |
 
 Based on the 2 intervention models obtained, it was found that the ARIMA model ([56],2,1) b=2, r=1, s=1 is the best model for PT. Unilever Indonesia Tbk with RMSE value is 156.23. 
 
