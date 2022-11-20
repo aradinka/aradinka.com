@@ -17,6 +17,8 @@ authors: ['azkaradinka', 'auboktav']
 
 💻 **Source Code**: [github.com/aradinka/IMDb-Dashboard](https://github.com/aradinka/IMDb-Dashboard)
 
+📌 **Live Demo**: **[aradinka.shinyapps.io/imdb](https://aradinka.shinyapps.io/imdb)**
+
 ## Overview
 
 ![overview](/static/gifs/project-imdb.gif)
@@ -63,5 +65,3 @@ library(shiny)
 library(shinydashboard)
 library(flexdashboard)
 ```
-
-The dashboard now live on **[aradinka.shinyapps.io/imdb](https://aradinka.shinyapps.io/imdb)**

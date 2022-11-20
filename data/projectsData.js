@@ -30,6 +30,12 @@ const projectsData = [
     href: '/blog/project-survival-analysis',
   },
   {
+    title: 'ARIMA Intervention Model',
+    description: `Influence of Covid-19 on PT.Unilever Indoensia Stock Priece using ARIMA Intervention Model.`,
+    imgSrc: '/static/images/projects/arima-9.jpg',
+    href: '/blog/project-arima',
+  },
+  {
     title: 'ASEAN Democracy Index',
     description: `Exploratory Data Analysis on ASEAN Democracy Index.`,
     imgSrc: '/static/images/projects/asean-thumbnail.png',

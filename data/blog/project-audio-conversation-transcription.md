@@ -23,9 +23,9 @@ authors: ['azkaradinka']
 
 📤 **Project output**: Detect each speaker audio snippet, user can give each audio snippet a speaker name, then create transcription with speaker time stamp when the speaker speaks
 
-💻 **Source Code**:  Private (internal project in company)
+💻 **Source Code**:  Private (internal company project)
 
-Live Demo: [Audio Conversation Transcription Demo](https://aradinka-audio-conversation-transcription-app-qr965p.streamlit.app/)
+📌 **Live Demo**: [Audio Conversation Transcription Demo](https://aradinka-audio-conversation-transcription-app-qr965p.streamlit.app/)
 
 ## Overview
 
@@ -37,4 +37,4 @@ This project carries out a comparison of the voice clustering method between agg
 
 ## Live Demo
 
-[Audio Conversation Transcription Demo](https://aradinka-audio-conversation-transcription-app-qr965p.streamlit.app/)
+📌 **Live Demo**: [Audio Conversation Transcription Demo](https://aradinka-audio-conversation-transcription-app-qr965p.streamlit.app/)
