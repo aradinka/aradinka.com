@@ -232,7 +232,7 @@ $df
 55
 ```
 
-The p.value results of the Barlett test are smaller than the significance level used (1.79e-96 <0.05), so factor analysis can be performed.
+The p.value results of the Barlett test are smaller than the significance level used (1.79e-96 < 0.05), so factor analysis can be performed.
 
 ## Correlation Matrix
 
