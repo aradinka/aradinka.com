@@ -37,7 +37,7 @@ The steps taken in this analysis are as follows:
 2. Intervention ARIMA Analysis
 	- Identification of orders b, r, and s
 	- Diagnostic checking of the alleged intervention model
-	- Determination of the best intervention model
+	- Choosing of the best intervention model
 
 ## Pre-Intervention ARIMA Analysis
 
