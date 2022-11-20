@@ -215,7 +215,7 @@ By using a 95% confidence level, it can be concluded that the amount of data is 
 
 Refrence : [cortest.barlett documentation](https://rdrr.io/cran/psych/man/cortest.bartlett.html)
 
-Bartlett's Test of Sphericity tests the interdependence between variables that are indicators of a factor. This analysis intends to state that the variables in question are not correlated with one another in the population. Significance in this Bartlett's test must also show a value of <0.05 so that factor analysis can be carried out. ([Santoso, 2012](https://media.neliti.com/media/publications/287280-analisis-faktor-yang-merupakan-intensi-p-c8e56a3d.pdf)).
+Bartlett's Test of Sphericity tests the interdependence between variables that are indicators of a factor. This analysis intends to state that the variables in question are not correlated with one another in the population. Significance in this Bartlett's test must also show a value lower than 0.05 so that factor analysis can be carried out. ([Santoso, 2012](https://media.neliti.com/media/publications/287280-analisis-faktor-yang-merupakan-intensi-p-c8e56a3d.pdf)).
 
 ```r
 cortest.bartlett(cor(df), n = nrow(df))
