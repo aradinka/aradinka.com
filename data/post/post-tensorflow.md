@@ -1,7 +1,7 @@
 ---
 title: 'My TensorFlow Developer Certificate'
 date: '2021-11-2'
-tags: ['blog']
+tags: ['post']
 draft: false
 summary: ''
 authors: ['azkaradinka']
