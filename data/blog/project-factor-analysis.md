@@ -16,7 +16,9 @@ layout: PostLayout
 
 🗄 **Environment**: R Kaggle Notebook
 
-🔗 **Dataset**: [HBAT Market Segmentation Dataset](https://www.scribd.com/document/458098815/HBAT-description)
+🔗 **Dataset**: [HBAT Customer Survey Dataset](https://www.kaggle.com/datasets/aradinka/hbat-dataset)
+
+💻 **Source Code**: [kaggle.com/aradinka/hbat-factor-analysis-using-pca-varimax-rotation](https://www.kaggle.com/aradinka/hbat-factor-analysis-using-pca-varimax-rotation)
 
 # HBAT Dataset
 
@@ -32,7 +34,7 @@ By analyzing this data, HBAT can better understand its customers' characteristic
 
 The following are the variables in the HBAT data, along with their descriptions and data types:
 
-|Variabel|Deskripsi|Tipe|
+|Variable|Description|Type|
 |---|---|---|
 |**Data Warehouse Classification Variables**| | |
 |X1|Customer Type|Nonmetric|
@@ -202,13 +204,9 @@ MSA for each item =
                          0.67
 ```
 
-#### Keputusan
+#### Test Result
 
-Failed to reject $H_0$ because the overall MSA value greater than the significance level used (0.65 > 0.05)
-
-#### Kesimpulan
-
-By using a 95% confidence level, it can be concluded that the amount of data is sufficient to be factored
+Failed to reject $H_0$ because the overall MSA value greater than the significance level used (0.65 > 0.05). By using a 95% confidence level, it can be concluded that the amount of data is sufficient to be factored.
 
 
 ### Bartlett Test of Sphericity
