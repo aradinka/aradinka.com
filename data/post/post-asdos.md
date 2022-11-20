@@ -1,7 +1,7 @@
 ---
 title: 'Exploratory Data Analysis Course'
 date: '2022-02-01'
-tags: ['']
+tags: ['blog']
 draft: false
 summary: ''
 authors: ['azkaradinka', 'benedictuskt']
