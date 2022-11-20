@@ -10,19 +10,21 @@ layout: PostLayout
 
 <TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
-## Project Info
+# Project Info
 
 🗄 **Tools**: [SAS](https://www.sas.com/en_us/software/on-demand-for-academics.html), [Minitab19](https://www.minitab.com/en-us/products/minitab/)
 
 🔗 **Dataset**: [PT Unilever Indonesia Tbk (UNVR.JK)](https://finance.yahoo.com/quote/UNVR.JK/history?period1=1535760000&period2=1585612800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) stock price (5 September 2018 - 30 May 2020)
 
-## Overview
+💻 **Source Code**: [github.com/aradinka/unilever-arima-intervention](https://github.com/aradinka/unilever-arima-intervention)
+
+# Overview
 
 In daily stock trading activities, stock prices have increased or decreased. The formation of share prices occurs due to the demand and supply of shares. This demand and supply are influenced by many factors, both related to company performance and external factors such as developments in interest rates, inflation, value exchange rates, and unforeseen events such as the COVID-19 pandemic. 
 
 PT. Unilever Indonesia Tbk is an Indonesian company founded on December 5, 1933 and is a subsidiary of Unilever. Unilever Indonesia released 15% of its shares on the Stock Exchange Jakarta and the Surabaya Stock Exchange in 1981 and until now Unilever Indonesia has more than 1,000 distributors throughout Indonesia. Based on data obtained from yahoo finance, Unilever Indonesia recorded a decline in stock prices, especially after the COVID-19 pandemic. Therefore we need an analysis that models the pre and post-time series data COVID-19 on PT Unilever Indonesia Tbk shares using ARIMA intervention.
 
-## Analysis
+# Analysis
 
 The steps taken in this analysis are as follows:
 1. Pre-Intervention ARIMA Analysis
@@ -36,9 +38,9 @@ The steps taken in this analysis are as follows:
 	- Diagnostic checking of the alleged intervention model
 	- Determination of the best intervention model
 
-### Pre-Intervention ARIMA Analysis
+## Pre-Intervention ARIMA Analysis
 
-#### Time series plot of pre-intervention data
+### Time series plot of pre-intervention data
 
 ![](/static/images/projects/arima-1.jpg)
 
@@ -58,7 +60,7 @@ Based on the results obtained, it can be seen that the **ACF plot has an extreme
 
 ![](/static/images/projects/arima-4.jpg)
 
-#### Identification of pre-intervention models
+### Identification of pre-intervention models
 
 The pre-intervention model was identified by looking at the pattern on the ACF and PACF stock data. PT. Unilever Indonesia Tbk stock data has been stationary both in variance and average after perform differencing 2 times. PACF plot as follows.
 
@@ -84,7 +86,7 @@ Based on the results of ljung-box statistics, it is found that the residual is o
 
 Based on the ACF plot of the residuals above, it is found that 5 lags go out of bounds, namely lags 13, 26, 56, 58, and lag 61. The lags that come out will be included in the ARIMA subset.
 
-#### Choosing the best pre-intervention model
+### Choosing the best pre-intervention model
 
 Because there are still 5 lags outside the limits of the residual ACF plot of the ARIMA model (0,2,1), namely lags 13, 26, 56, 58, and 61. Those lags will be included in the ARIMA subset with the rule that if the output lag is < 10, it will be entered in order q, and if the output lag is > 10 will be entered at order p, and several options of subset ARIMA models will be tried to enter the largest lag first. With these rules, there are several options subset ARIMA models that can be tried are ARIMA([61],2,1), ARIMA([58 61],2,1), ARIMA([56 58 61],2,1), ARIMA([26 56 58 61],2,1), and ARIMA([13 26 56 58 61],2,1). Based on several options subset ARIMA model that can be used, modelling is carried out, and the following results are obtained.
 
@@ -98,16 +100,16 @@ Because there are still 5 lags outside the limits of the residual ACF plot of th
 
 ---
 
-Model ARIMA([13, 26, 56, 58, 61],2,1)
+#### Model ARIMA([13, 26, 56, 58, 61],2,1)
 
-| Parameter | Lag | Estimasi | P-Value | Kesimpulan |
+| Parameter | Lag | Estimasi | P-Value | Conclusion |
 |-----------|-----|----------|---------|------------|
-| MA1,1     | 1   | 0.98306  | 0.0001  | Signifikan |
-| AR1,1     | 13  | 0.16762  | 0.0017  | Signifikan |
-| AR1,2     | 26  | 0.11067  | 0.0391  | Signifikan |
-| AR1,3     | 56  | -0.13194 | 0.0141  | Signifikan |
-| AR1,4     | 58  | 0.13967  | 0.009   | Signifikan |
-| AR1,5     | 61  | -0.11902 | 0.0266  | Signifikan |
+| MA1,1     | 1   | 0.98306  | 0.0001  | Significanct |
+| AR1,1     | 13  | 0.16762  | 0.0017  | Significanct |
+| AR1,2     | 26  | 0.11067  | 0.0391  | Significanct |
+| AR1,3     | 56  | -0.13194 | 0.0141  | Significanct |
+| AR1,4     | 58  | 0.13967  | 0.009   | Significanct |
+| AR1,5     | 61  | -0.11902 | 0.0266  | Significanct |
 
 | To Lag | Chi-Square | DF | Pr > ChiSq |
 |--------|------------|----|------------|
@@ -121,3 +123,47 @@ Model ARIMA([13, 26, 56, 58, 61],2,1)
 | Kolmogorov-Smirnov | 0.043351     | 0.0922  |
 
 Based on the modelling results ARIMA([61],2,1), ARIMA([58,61],2,1), ARIMA([56, 58, 61],2,1), ARIMA([26, 56, 58, 61],2,1), and ARIMA([13, 26, 56, 58, 61],2,1) found that the ARIMA model([13, 26, 56, 58, 61], 2, 1) is the best subset ARIMA model for modelling PT. Unilever Indonesia Tbk pre-intervention. It was found that the p-value from the autocorrelation check table of residuals and the Kolmogorov-Smirnov p-value is more than 0.05, it can be said that the residual assumption white noise and normally distributed residuals in the ARIMA model ([13, 26, 56, 58, 61], 2, 1) have been fulfilled.
+
+## Intervention ARIMA Analysis
+
+### Identification of b, r, and s orders
+
+In conducting intervention ARIMA modeling, input orders b, r, and s are needed. This order can be identified by calculating the response function, which is the difference between the original data with data from the prediction results of the pre-intervention model, namely the ARIMA model ([13 26 56 58 61], 2, 1). The chart response values as follows.
+
+![](/static/images/projects/arima-response-value.png)
+
+Based on the chart of response values above, it can be seen that the impact of the COVID-19 case, the first in Indonesia, which falls on March 2, 2020, influenced PT shares Unilever Indonesia Tbk 2 days after the intervention date. Then it can be determined that the value order b in the intervention Arima model is 2. Order r and also s are determined from various experiment combinations, and after carrying out various combinations, 2 models were obtained that had interventions significant as follows.
+
+#### ARIMA([56],2,1) b=2, r=1, s=1
+
+| Parameter | Lag | Estimate | P-Value | Conclusion  |
+|-----------|-----|----------|---------|-------------|
+| MA1,1     | 1   | 0.94016  | 0.0001  | Significant |
+| AR1,1     | 56  | -0.22455 | 0.0003  | Significant |
+| NUM1      | 0   | 330.453  | 0.0446  | Significant |
+| NUM1,1    | 1   | 365.569  | 0.0278  | Significant |
+
+#### ARIMA(0,2,1) b=2, r=1, s=1
+
+| Parameter | Lag | Estimate | P-Value | Conclusion  |
+|-----------|-----|----------|---------|-------------|
+| MA1,1     | 1   | 0.94253  | 0.0001  | Significant |
+| NUM1      | 0   | 331.975  | 0.047   | Significant |
+| NUM1,1    | 1   | 366.744  | 0.0299  | Significant |
+
+### Choosing the Best Intervention Model
+
+After obtaining 2 models that have significant interventions and parameters, we check whether the residuals are white noise and normally distributed. Testing was done in the same way as in the pre-intervention model, the summary of the results is obtained as follows.
+
+| Intervention Model            | Intervention | Residual White Noise | Residual Normal | RMSE   |
+|-------------------------------|--------------|----------------------|-----------------|--------|
+| ARIMA([56],2,1) b=2, r=1, s=1 | Significance | Fulfilled            | Fulfilled       | 156.23 |
+| ARIMA(0,2,1) b=2, r=1, s=1    | Significance | Fulfilled            | Fulfilled       | 165.93 |
+
+Based on the 2 intervention models obtained, it was found that the ARIMA model ([56],2,1) b=2, r=1, s=1 is the best model for PT. Unilever Indonesia Tbk with RMSE value is 156.23. 
+
+#### Two comparison plots of original data vs pre-intervention ARIMA fit data, and original data vs data fits ARIMA intervention.
+
+![](/static/images/projects/arima-8.jpg)
+
+![](/static/images/projects/arima-9.jpg)
