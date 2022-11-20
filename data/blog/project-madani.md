@@ -1,7 +1,7 @@
 ---
 title: 'Mapping and Data Assesment for Natural Incident'
 date: '2020-07-01'
-tags: ['python', 'tensorflow', 'pil', 'shapely', 'open-cv', 'scipy', ]
+tags: ['python', 'tensorflow', 'pil', 'shapely', 'open-cv', 'scipy', 'streamlit']
 draft: false
 summary: 'Madani is an application that makes it easier for volunteers to carry out disaster mitigation by classifying routes and impact buildings based on post-disaster satellite images.'
 authors: ['azkaradinka']

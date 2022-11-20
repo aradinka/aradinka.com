@@ -1,7 +1,7 @@
 ---
 title: 'Face Detection & Gender Classification'
 date: '2021-09-25'
-tags: ['python', 'tensorflow', 'PIL', 'face_recognition']
+tags: ['python', 'tensorflow', 'PIL', 'face_recognition', 'streamlit']
 draft: false
 summary: ''
 authors: ['azkaradinka']
