@@ -1,7 +1,7 @@
 ---
 title: 'Face Detection & Gender Classification'
 date: '2021-09-25'
-tags: ['computer-vision', 'image-classification']
+tags: ['python', 'tensorflow', 'PIL', 'face_recognition']
 draft: false
 summary: ''
 authors: ['azkaradinka']
@@ -9,7 +9,7 @@ authors: ['azkaradinka']
 
 ## Project Info
 
-🗃 **Package**: [TensorFlow](https://github.com/tensorflow), [PIL](https://github.com/python-pillow/Pillow), [face_recognition](https://github.com/ageitgey/face_recognition), [NumPy](https://github.com/numpy/numpy)
+🗃 **Package**: [TensorFlow](https://github.com/tensorflow), [PIL](https://github.com/python-pillow/Pillow), [face_recognition](https://github.com/ageitgey/face_recognition)
 
 🗄 **Environment**: `Python 3.7.13`, [Google Colab](https://colab.research.google.com/) with K80 GPU
 

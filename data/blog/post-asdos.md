@@ -1,7 +1,7 @@
 ---
 title: 'Exploratory Data Analysis Course'
 date: '2022-02-01'
-tags: ['teaching', 'ggplot']
+tags: ['R', 'ggplot2']
 draft: false
 summary: 'Course materials about exploring data before conducting more complex data analysis.'
 authors: ['azkaradinka', 'benedictuskt']

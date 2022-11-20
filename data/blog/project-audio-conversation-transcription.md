@@ -1,7 +1,7 @@
 ---
 title: 'Audio Conversation Transcription'
 date: '2022-07-01'
-tags: ['speaker-diarization', 'voice-activity-detection', 'clustering', 'speaker-recognition', 'speaker-identification']
+tags: ['python', 'tensorflow', 'librosa', 'soundfile', 'pydub', 'webrtcvad', 'pyannote', 'scikit-learn', 'scipy']
 draft: false
 summary: ''
 authors: ['azkaradinka']
@@ -9,7 +9,7 @@ authors: ['azkaradinka']
 
 ## Project Info
 
-🗃 **Package**: [TensorFlow](https://github.com/tensorflow), [librosa](https://github.com/librosa/librosa), [SoundFile](https://github.com/bastibe/python-soundfile), [Pydub](https://github.com/jiaaro/pydub), [webrtcvad](https://github.com/wiseman/py-webrtcvad), [pyannote.audio](https://github.com/pyannote/pyannote-audio), [scikit-learn](https://github.com/scikit-learn/scikit-learn), [SciPy](https://github.com/scipy/scipy), [pandas](https://github.com/pandas-dev/pandas), [NumPy](https://github.com/numpy/numpy)
+🗃 **Package**: [TensorFlow](https://github.com/tensorflow), [librosa](https://github.com/librosa/librosa), [SoundFile](https://github.com/bastibe/python-soundfile), [Pydub](https://github.com/jiaaro/pydub), [webrtcvad](https://github.com/wiseman/py-webrtcvad), [pyannote.audio](https://github.com/pyannote/pyannote-audio), [scikit-learn](https://github.com/scikit-learn/scikit-learn), [SciPy](https://github.com/scipy/scipy)
 
 🗄 **Environment**: `Python 3.7.13`, Tesla V100 GPU
 

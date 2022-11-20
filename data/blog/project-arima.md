@@ -1,7 +1,7 @@
 ---
 title: 'Influence of Covid 19 on PT Unilever Indonesia Stock Price using ARIMA Intervention Model'
 date: '2022-04-15'
-tags: ['arima', 'time-series']
+tags: ['SAS', 'minitab']
 draft: false
 summary: ''
 authors: ['azkaradinka']

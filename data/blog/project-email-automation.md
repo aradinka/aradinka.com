@@ -1,7 +1,7 @@
 ---
 title: 'Personalized Email Automation with Python'
 date: '2020-03-2'
-tags: ['automation']
+tags: ['python']
 draft: false
 summary: ''
 authors: ['azkaradinka']

@@ -1,7 +1,7 @@
 ---
 title: 'Mapping and Data Assesment for Natural Incident'
 date: '2020-07-01'
-tags: ['computer-vision', 'image-classification', 'image-segmentation']
+tags: ['python', 'tensorflow', 'pil', 'shapely', 'open-cv', 'scipy', ]
 draft: false
 summary: 'Madani is an application that makes it easier for volunteers to carry out disaster mitigation by classifying routes and impact buildings based on post-disaster satellite images.'
 authors: ['azkaradinka']
@@ -10,7 +10,7 @@ authors: ['azkaradinka']
 
 ## Project Info
 
-🗃 **Package**: [TensorFlow](https://github.com/tensorflow), [PIL](https://github.com/python-pillow/Pillow),  [Shapely](https://github.com/shapely/shapely), [opencv](https://github.com/opencv/opencv-python), [SciPy](https://github.com/scipy/scipy), [pandas](https://github.com/pandas-dev/pandas), [NumPy](https://github.com/numpy/numpy)
+🗃 **Package**: [TensorFlow](https://github.com/tensorflow), [PIL](https://github.com/python-pillow/Pillow),  [Shapely](https://github.com/shapely/shapely), [opencv](https://github.com/opencv/opencv-python), [SciPy](https://github.com/scipy/scipy)
 
 🗄 **Environment**: `Python 3.7.13`, [Google Colab](https://colab.research.google.com/) with K80 GPU
 

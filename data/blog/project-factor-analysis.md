@@ -1,7 +1,7 @@
 ---
 title: 'HBAT Factor Analysis'
 date: '2021-05-7'
-tags: ['pca']
+tags: ['R']
 draft: false
 summary: ''
 authors: ['azkaradinka']
