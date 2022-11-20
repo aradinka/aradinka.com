@@ -1,0 +1,1 @@
+[FactoMineR](https://cran.r-project.org/web/packages/FactoMineR/index.html)

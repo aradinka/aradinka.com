@@ -24,16 +24,22 @@ const projectsData = [
     href: '/blog/project-imdb',
   },
   {
-    title: 'Survival Analysis - Veteran Lung Cancer Study',
-    description: `Survival Analysis using Stratified Cox Proportional Hazard Model.`,
-    imgSrc: '/static/images/projects/survival-analysis-4.png',
-    href: '/blog/project-survival-analysis',
+    title: 'Factor Analysis',
+    description: `HBAT Factor Analysis using PCA and Varimax Rotation.`,
+    imgSrc: '/static/images/projects/factor-analysis-plot.png',
+    href: '/blog/project-factor-analysis',
   },
   {
     title: 'ARIMA Intervention Model',
     description: `Influence of Covid 19 on PT Unilever Indoensia Stock Price using ARIMA Intervention Model.`,
     imgSrc: '/static/images/projects/arima-9.jpg',
     href: '/blog/project-arima',
+  },
+  {
+    title: 'Survival Analysis - Veteran Lung Cancer Study',
+    description: `Survival Analysis using Stratified Cox Proportional Hazard Model.`,
+    imgSrc: '/static/images/projects/survival-analysis-4.png',
+    href: '/blog/project-survival-analysis',
   },
   {
     title: 'ASEAN Democracy Index',
