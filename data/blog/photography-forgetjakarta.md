@@ -1,7 +1,7 @@
 ---
 title: 'Forget Jakarta'
 date: '2019-06-23'
-tags: ['photography']
+tags: ['adobe-lightroom']
 draft: false
 summary: 'A journey 100 km north of the city of Jakarta'
 authors: ['azkaradinka', 'rifqiali']

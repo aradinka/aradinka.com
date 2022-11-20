@@ -1,7 +1,7 @@
 ---
 title: 'Pabean Traditional Market'
 date: '2019-04-15'
-tags: ['photography']
+tags: ['adobe-lightroom', 'adoba-premiere']
 draft: false
 summary: ''
 ---
