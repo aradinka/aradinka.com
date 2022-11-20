@@ -1,7 +1,7 @@
 ---
 title: 'Aradinka Portfolio Zine'
 date: '2018-02-12'
-tags: ['design', 'magazine']
+tags: ['powerpoint']
 draft: false
 summary: 'Aradinka high school portfolio'
 authors: ['azkaradinka']

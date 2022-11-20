@@ -1,7 +1,7 @@
 ---
 title: 'Satria Data Infographic'
 date: '2020-09-25'
-tags: ['design']
+tags: ['powerpoint']
 draft: false
 summary: 'Favorite Infographic Nominee Infographic Competition Satria Data'
 authors: ['azkaradinka', 'tizaayu']

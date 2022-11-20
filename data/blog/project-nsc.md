@@ -1,7 +1,7 @@
 ---
 title: 'National Statistics Challenge Infographic'
 date: '2020-11-05'
-tags: ['design']
+tags: ['powerpoint']
 draft: false
 summary: '3rd Winner & Favourite Infographic National Statistics Challenge'
 authors: ['azkaradinka', 'tizaayu']
