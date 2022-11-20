@@ -7,8 +7,8 @@ summary: 'Aradinka high school portfolio'
 authors: ['azkaradinka']
 ---
 
-
-![Portfolio1](/static/images/projects/porto-thumbnail.jpg)
 ![Portfolio2](/static/images/projects/porto-1.jpg)
 
-Check out my [behance](https://www.behance.net/gallery/68003639/Aradinka-Portfolio)
+![Portfolio1](/static/images/projects/porto-thumbnail.jpg)
+
+Check out on my **[behance](https://www.behance.net/gallery/68003639/Aradinka-Portfolio)**

@@ -33,7 +33,7 @@ Read about my internship journey from Digi Inspiration DDB Instagram post [here]
 I registered as a data scientist intern at [internship.ddbtelkom.id/](https://internship.ddbtelkom.id/). This FHCI (Forum Human Capital Indonesia) program allows active university students to do an internship for six months which can be extended for up to 12 months. My CV was accepted, and I had to make a profile video like the one above. After receiving my application, I was interviewed by 2 data scientists and talked about the projects I had worked on and the stack of data science tools I could use. I am thrilled that I managed to pass along with 29 other data scientists interns who were also selected among 1100 applicants.
 
 
-### Speaker Diarization Project
+## Speaker Diarization Project
 
 In the first month of my internship, I was paired with one of the on-the-job training participants to complete the speaker diarization project. At that time, our team already had one of the states of speaker recognition models trained on a large amount of voice data. The problem statement given is as follows.
 

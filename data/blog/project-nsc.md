@@ -3,9 +3,17 @@ title: 'National Statistics Challenge Infographic'
 date: '2020-11-05'
 tags: ['design']
 draft: false
-summary: '3rd Winner & Favourite Poster National Statistics Challenge'
+summary: '3rd Winner & Favourite Infographic National Statistics Challenge'
 authors: ['azkaradinka', 'tizaayu']
 ---
+
+## Project Info
+
+🎖 **Related Competition**: [National Statistics Challenge](https://www.instagram.com/nscub2022/)
+
+📈 **Result**: 3rd Winner & Favourite Infographic National Statistics Challenge
+
+## Infographic Submission
 
 ![nsc](/static/images/projects/nsc-1.png)
 

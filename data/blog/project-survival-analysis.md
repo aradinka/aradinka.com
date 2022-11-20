@@ -10,6 +10,16 @@ layout: PostLayout
 
 <TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
+## Project Info
+
+🗃 **Package**: [survival](https://cran.r-project.org/web/packages/survival/index.html), [survminer](https://cran.r-project.org/web/packages/survminer/index.html), [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html), [MASS](https://cran.r-project.org/web/packages/MASS/index.html), [AdGofTest](https://cran.r-project.org/web/packages/ADGofTest/index.html), [rms](https://cran.r-project.org/web/packages/rms/index.html)
+
+🗄 **Environment**: R, Rmarkdown
+
+🔗 **Dataset**: [Veterans' Lung Cancer](https://stat.ethz.ch/R-manual/R-devel/library/survival/html/veteran.html)
+
+💻 **Source Code**: [kaggle.com/aradinka/survival-analysis-veterans-lung-cancer-study](https://www.kaggle.com/aradinka/survival-analysis-veterans-lung-cancer-study)
+
 ## Overview
 
 In a study conducted by the US Veterans Administration, male patients with inoperable advanced lung cancer were given standard therapy or chemotherapy. Time to death was recorded for 137 patients, while 9 left the study before death. Several covariates were also assigned for each patient. The main aim of this study was to assess **whether chemotherapy tests are beneficial**. The secondary objective is covariate analysis as a predictive variable. These data have been published in Kalbfleisch and Prentice (1980). The data consists of the following variables:
@@ -281,7 +291,3 @@ Now we will evaluate whether or not KM curves for two groups are statistically e
 The log–rank test is a large-sample chi-square test that uses as its test criterion a statistic that provides an overall comparison of the kaplan meier plot being compared. We will use `survdiff()` function with rho=0 argument to do the log-rank test. The null hypothesis is that there is no difference between curves.
 
 Based on the log rank test that has been carried out, the value of `p=0.9`. Then it can be concluded that there is no difference between standard treatment and chemotherapy KM curves.
-
-## Kaggle Notebooks
-
-See [here](https://www.kaggle.com/aradinka/survival-analysis-veterans-lung-cancer-study)

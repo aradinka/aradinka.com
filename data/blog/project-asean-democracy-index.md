@@ -9,6 +9,16 @@ authors: ['azkaradinka']
 
 <TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
+## Project Info
+
+🗃 **Package**: [tidyr](https://cran.r-project.org/web/packages/tidyr/index.html), [corrplot](https://cran.r-project.org/web/packages/corrplot/), [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)
+
+🗄 **Environment**: R, Rmarkdown
+
+🔗 **Dataset**: [Democracy Index ASEAN Countries](https://www.kaggle.com/datasets/aradinka/democracy-index-asean-countries-20102019)
+
+💻 **Source Code**:  [kaggle.com/code/aradinka/asean-democracy-index-eda](https://www.kaggle.com/code/aradinka/asean-democracy-index-eda)
+
 ## Overview
 
 The Democracy Index is an index that compiled based on 60 indicators grouped in five different categories that measure pluralism, civil liberties, and political culture. The aim of this project is to know the condition of democracy in ASEAN member countries in the last 1 decade. The data source which used in this project is produced by the Economist Intelligence Unit about the index democracy from 2010 to 2019. Data exploration method, used are boxplot, violin plot, scatterplot, line graphs, correlograms, and geographic plots.
@@ -46,7 +56,3 @@ The democracy index strongly correlates positively with the Electoral Pluralism 
 ![](/static/images/projects/asean-5.png)
 
 Based on the last democracy index score in 2019, ASEAN countries categorized as a regime with flawed democracy are; Indonesia, Thailand, Malaysia, Philippines, and Singapore,. The authoritarian regime countries are; Vietnam, Laos, Cambodia, and Myanmar.
-
-## Kaggle Notebooks
-
-See [here](https://www.kaggle.com/code/aradinka/asean-democracy-index-eda)

@@ -9,6 +9,12 @@ authors: ['azkaradinka']
 
 <TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
+## Project Info
+
+🗃 **Package**: [smtplib](https://docs.python.org/3/library/smtplib.html)
+
+💻 **Source Code**:  [github.com/aradinka/Personalized-Email-Automation](https://github.com/aradinka/Personalized-Email-Automation)
+
 ## Overview
 
 I just completed one of the specializations from Coursera, namely [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation). In the last course, several automation projects interested me to implementing them in my organization. This specialization consists of 6 courses, including:
@@ -106,7 +112,7 @@ if __name__ == "__main__":
 Run your python script
 
 ```
-python python_script.py
+python script.py
 ```
 
 ![](/static/gifs/pst-email-automation.gif)

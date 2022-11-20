@@ -9,16 +9,18 @@ authors: ['azkaradinka']
 
 ## Project Info
 
-Github: [github.com/aradinka/big-data-challenge-satria-data](https://github.com/aradinka/big-data-challenge-satria-data)
+🗃 **Package**: [TensorFlow](https://github.com/tensorflow), [PIL](https://github.com/python-pillow/Pillow), [face_recognition](https://github.com/ageitgey/face_recognition), [NumPy](https://github.com/numpy/numpy)
 
-Package: [TensorFlow](https://github.com/tensorflow), [PIL](https://github.com/python-pillow/Pillow), [face_recognition](https://github.com/ageitgey/face_recognition), [NumPy](https://github.com/numpy/numpy)
+🗄 **Environment**: `Python 3.7.13`, [Google Colab](https://colab.research.google.com/) with K80 GPU
 
-Environment: `Python 3.7.13`, [Google Colab](https://colab.research.google.com/) with K80 GPU
+🎖 **Related Competition**: [Satria Data](https://satriadata.kemdikbud.go.id/)
 
-Dataset: Private dataset provided by Satria Data Competition
+🔗 **Dataset**: Private dataset provided by Satria Data Competition
 
-Result: Top 15 solution on the competition
+📈 **Result**: Top 15 solution on the competition (total 218 participant / 70++ teams)
+
+💻 **Source Code**: [github.com/aradinka/big-data-challenge-satria-data](https://github.com/aradinka/big-data-challenge-satria-data)
 
 ## Live Demo
 
-Live Demo: [Gender Classification with Sample Image](http://bdc.herokuapp.com/)
+📌 **Live Demo**: [Gender Classification with Sample Image](http://bdc.herokuapp.com/)

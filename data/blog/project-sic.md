@@ -7,6 +7,14 @@ summary: 'Favorite Infographic Nominee Infographic Competition Satria Data'
 authors: ['azkaradinka', 'tizaayu']
 ---
 
+## Project Info
+
+🎖 **Related Competition**: [Satria Data](https://satriadata.kemdikbud.go.id/)
+
+📈 **Result**: Favorite Infographic Nominee Infographic Competition Satria Data (total 271 participant / 90++ team)
+
+## Infographic
+
 ![sic](/static/images/projects/sic-1.png)
 
 Currently, Indonesia is undaunted by development in all fields. One of Indonesia's development priorities contained in the Nawacita is to build Indonesia from the periphery by strengthening regions and villages within the framework of a unitary state. Village development is an effort to improve rural communities quality of life and welfare. This village development serves as a manifestation of the implementation of Law No. 6 of 2014 concerning Villages, especially in Article 74 concerning Village Development Needs and Article 78 concerning Village Development Goals. Therefore, the Central Statistics Agency (BPS) conducts data collection on village potentials every four years to determine the availability of infrastructure, social and economic potential owned by the administration at the village/kelurahan, sub-district, district/city level throughout Indonesia and to determine the development index of an area. 
