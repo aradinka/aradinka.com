@@ -20,8 +20,6 @@ authors: ['azkaradinka']
 
 🎖 **Related Competition**: [xView2: Assess Building Damage](https://xview2.org/)
 
-💻 **Source Code**: [github.com/aradinka/MADANI](https://github.com/aradinka/MADANI)
-
 📌 **Live Demo**: **[Building Damage Detection Demo](https://aradinka-xview2-building-damage-detection-app-rm3i5q.streamlit.app/)**
 
 

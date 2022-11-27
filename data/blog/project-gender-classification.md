@@ -24,3 +24,12 @@ authors: ['azkaradinka']
 ## Live Demo
 
 📌 **Live Demo**: [Gender Classification with Sample Image](http://bdc.herokuapp.com/)
+
+This live demo built using free Heroku dynos. Starting November 28th 2022 the apps will no longer be available :( you can run the app in your local machine as follows
+
+```
+!git clone https://github.com/aradinka/big-data-challenge-satria-data.git
+!cd big-data-challenge-satria-data
+!pip instal requirements.txt
+!pip streamlit run app.py
+```
