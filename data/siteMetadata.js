@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/aradinka/tailwind-nextjs-web',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/web-thumbnail.png',
   email: 'azkaradinka@gmail.com',
   github: 'https://github.com/aradinka',
   // twitter: 'https://twitter.com/Twitter',
