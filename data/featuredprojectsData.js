@@ -6,7 +6,7 @@ const featuredprojectsData = [
     href: '/blog/project-audio-conversation-transcription',
   },
   {
-      title: 'MADANI',
+      title: 'Aerial Building Damage Detection',
       description: `Mapping and Data Assesment for Natural Incident.`,
       imgSrc: '/static/images/projects/madani-thumbnail.jpg',
       href: '/blog/project-madani',
