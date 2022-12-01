@@ -1,6 +1,6 @@
 ---
 title: 'PSt Design Work Sample'
-date: '2020post-pst 1-02-10'
+date: '2020-02-10'
 tags: ['post']
 draft: false
 summary: ''
@@ -23,8 +23,6 @@ authors: ['azkaradinka']
     ![4](/static/images/post/pst-4.jpg)
   </div>
 </div>
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lj73CzaIG_rpWiaLnc-T8J1iezM-fV9v58m65SJoRko&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe><iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lj73CzaIG_rpWiaLnc-T8J1iezM-fV9v58m65SJoRko&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Konsultasi Statistika
 
