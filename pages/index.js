@@ -66,6 +66,24 @@ export default function Home({ posts }) {
             </a>
           </p>
         </p>
+        <div className="mt-8 flex flex-wrap gap-4 text-center">
+            <a
+              className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-blue-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-blue-500/10 transition selection:bg-white/30 hover:bg-blue-500/80 hover:shadow-blue-500/5 focus:ring-blue-500/40 dark:bg-blue-400 dark:text-zinc-900 dark:shadow-blue-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-blue-400/80 dark:hover:shadow-blue-400/5 dark:focus:ring-blue-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
+              href="https://www.linkedin.com/in/aradinka"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg height="24" role="presentation" width="24" xmlns="http://www.w3.org/2000/svg">
+                <path
+                  clipRule="evenodd"
+                  d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"
+                  fill="currentColor"
+                  fillRule="evenodd"
+                />
+              </svg>
+              <span className="hidden sm:inline">LinkedIn</span>
+            </a>
+          </div>
       </div>
       <div className="content mb-8">
         <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">
