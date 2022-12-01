@@ -90,6 +90,9 @@ export default function Home({ posts }) {
             <span className="hidden sm:inline">Resume</span>
           </a>
         </div>
+        <div className="flex w-full justify-center">
+          <div className="mt-2 justify-center"></div>
+        </div>
       </div>
       <div className="content mb-8">
         <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">
