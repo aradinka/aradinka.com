@@ -87,6 +87,7 @@ export default function Home({ posts }) {
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-lime-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-lime-500/10 transition selection:bg-white/30 hover:bg-lime-500/80 hover:shadow-lime-500/5 focus:ring-lime-500/40 dark:bg-lime-400 dark:text-zinc-900 dark:shadow-lime-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-lime-400/80 dark:hover:shadow-lime-400/5 dark:focus:ring-lime-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
             href="https://drive.google.com/file/d/1Df5id_9gRz4eNfpM1rqGmWGRwFvF4xIx/view?usp=share_link"
           >
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAABTUlEQVRoge2ZMU7DQBBFXyANiDIHoKLiAOk5ApeKxBVygfQpqaDIASiIBEJ0qYMQBUVM4yJY3p21h90MzjzJUlaZjP/3emZWCji2GAnfV0VUpBPUe1JSRU7GiXHSzuVGfDMGsyNuxBpaI9fAE/AB3AETtaJMVMQLbb4XUwGzA+lQ78hFY30mxL7z23jb9dhHiNbId2O9VeaDnkM4dY6EWDfWL5HYT+BSeb/eSO/mOfBax6zI1wWz18gXsKw/L4CdMl82Yk/iFLgFNnXMM3BD+DijKXZxRyRCCaa18DYhK+Cq5TepRh466EgmlOBNEHOvuWkHHeUS/BHZi90MbsQabsQaR20kdbClTO62XAc5xvdBmktZ5pYPxNK4EWuU6lqhTvTvulaXhuFdaxC4EWv4WUuBn7ViAUddIyZxI9ZwI9ZI/cfKQguOMpgdcazxA7TMqVrZsKs7AAAAAElFTkSuQmCC"></img>
             <span className="hidden sm:inline">Resume</span>
           </a>
         </div>
