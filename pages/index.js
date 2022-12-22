@@ -87,16 +87,12 @@ export default function Home({ posts }) {
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-lime-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-lime-500/10 transition selection:bg-white/30 hover:bg-lime-500/80 hover:shadow-lime-500/5 focus:ring-lime-500/40 dark:bg-lime-400 dark:text-zinc-900 dark:shadow-lime-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-lime-400/80 dark:hover:shadow-lime-400/5 dark:focus:ring-lime-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
             href="https://drive.google.com/file/d/1Df5id_9gRz4eNfpM1rqGmWGRwFvF4xIx/view?usp=share_link"
           >
-            <svg
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-            >
+            <svg height="24" role="presentation" width="24" xmlns="http://www.w3.org/2000/svg">
               <path
-                d="M20.3333 8H19.6667V6.33333H20.3333V8ZM18.6667 8H10V6.33333H18.6667V8ZM8 8H3.33333C2.59167 8 2 8.59167 2 9.33333V19.6667C2 20.4083 2.59167 21 3.33333 21H20.3333C21.075 21 21.6667 20.4083 21.6667 19.6667V9.33333C21.6667 8.59167 21.075 8 20.3333 8H8ZM8 10H20.3333V19.6667H8V10Z"
-                fill="#212121"
+                clipRule="evenodd"
+                d="M7.727 2.959A10 10 0 0 1 22 11.999v.9a3.7 3.7 0 0 1-6.642 2.244 4.6 4.6 0 1 1-.741-6.928A1 1 0 0 1 16.6 8.4v4.5a1.7 1.7 0 1 0 3.4 0V12a8 8 0 1 0-3.136 6.353 1 1 0 1 1 1.216 1.587A10 10 0 1 1 7.727 2.96Zm6.873 9.04a2.6 2.6 0 1 0-5.2 0 2.6 2.6 0 0 0 5.2 0Z"
+                fill="currentColor"
+                fillRule="evenodd"
               />
             </svg>
             <span className="hidden sm:inline">Resume</span>
