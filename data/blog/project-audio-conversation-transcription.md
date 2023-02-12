@@ -2,7 +2,7 @@
 title: 'Audio Conversation Transcription'
 date: '2022-07-01'
 tags: ['python', 'tensorflow', 'librosa', 'soundfile', 'pydub', 'webrtcvad', 'pyannote', 'scikit-learn', 'scipy', 'streamlit']
-draft: false
+draft: true
 summary: ''
 authors: ['azkaradinka']
 ---
